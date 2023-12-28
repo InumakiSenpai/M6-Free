@@ -20,7 +20,8 @@ CSS, atau Cascading Style Sheets, adalah bahasa stylesheet yang digunakan untuk 
 * mIncome_>50K
 
 Menginput data tabular:
-![image](https://github.com/InumakiSenpai/M6-Free/assets/80903500/13acfe74-7302-443e-87a4-59331d0cea7f)
+
+![image](https://github.com/InumakiSenpai/M6-Free/assets/80903500/5476e1be-27d9-46be-9f25-09b34bebb711)
 
 Hasil dari predict data tabular:
 
